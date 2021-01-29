@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\BrainstormSessions.csproj": {}
+    "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\BrainstormSessions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\BrainstormSessions.csproj": {
+    "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\BrainstormSessions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
+        "projectUniqueName": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
         "projectName": "BrainstormSessions",
-        "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
+        "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
         "packagesPath": "C:\\Users\\Perizat_Karina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\obj\\",
+        "outputPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Perizat_Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",

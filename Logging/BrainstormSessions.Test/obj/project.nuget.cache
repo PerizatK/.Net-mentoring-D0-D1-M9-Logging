@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ew3rzpGifRc0CksmwnVFBOUha51Y0gVDxJqbCupFE7I8NSN1l9tT9xasIxSqIRHDOI0oWSEVLkRMHbJ1RRMAA==",
+  "dgSpecHash": "T6I9dXUPEZuyaKwJicStliw/TPky6KURmbI4G+qlglVRBy0TK+pWdg9/WQmBgJouBj//FTF593YRaViJWUwwHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions.Test\\BrainstormSessions.Test.csproj",
+  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions.Test\\BrainstormSessions.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",

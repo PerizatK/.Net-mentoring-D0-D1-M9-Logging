@@ -1,7 +1,0 @@
-2021-01-29 14:16:14,483 [4] DEBUG LOGGER - Debug info
-2021-01-29 14:16:14,533 [4] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel}
-2021-01-29 14:16:22,612 [22] INFO  LOGGER - session name = енук
-2021-01-29 14:16:22,631 [4] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
-2021-01-29 14:16:36,288 [9] DEBUG LOGGER - session.DateCreated: 1/29/2021 2:16:22 PM +06:00 session.Name: енук session.Id: 2
-2021-01-29 14:16:42,864 [18] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
-2021-01-29 14:16:42,864 [18] INFO  ERROR- {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}

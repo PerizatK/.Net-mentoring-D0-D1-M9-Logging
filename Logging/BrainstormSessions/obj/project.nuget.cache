@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVPol28rtIIYbhmrKWxW64Qo8Kx2/x/g5QWXSMO209Jn0DIKvnphgR7BX8rpRCc9djKn4uAy/0jIGcLDcdM6eQ==",
+  "dgSpecHash": "ITjsQIAMhRkvb+eNztlve7a1iUIWSzoOya04yFaYJSdRAn9OVO1nQ6e6ULfDEwzgt6gtJSJH045an7igwmihDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
+  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions\\BrainstormSessions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.1\\microsoft.entityframeworkcore.3.0.1.nupkg.sha512",

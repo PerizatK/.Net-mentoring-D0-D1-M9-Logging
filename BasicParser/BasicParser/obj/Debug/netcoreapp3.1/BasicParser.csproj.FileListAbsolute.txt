@@ -1,0 +1,13 @@
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.deps.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.runtimeconfig.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.runtimeconfig.dev.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\bin\Debug\netcoreapp3.1\BasicParser.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.AssemblyInfoInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.AssemblyInfo.cs
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M9-Logging\BasicParser\BasicParser\obj\Debug\netcoreapp3.1\BasicParser.genruntimeconfig.cache

@@ -1,8 +1,6 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-[assembly: log4net.Config.XmlConfigurator(Watch = true)]
-
 namespace BrainstormSessions
 {
     public class Program

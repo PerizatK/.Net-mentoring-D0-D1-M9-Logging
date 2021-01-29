@@ -16,6 +16,8 @@ namespace BrainstormSessions.Controllers
         public HomeController(IBrainstormSessionRepository sessionRepository)
         {
             _sessionRepository = sessionRepository;
+            if (Logger.inited == false) 
+                Logger.InitLogger();
         }
 
         public async Task<IActionResult> Index()
@@ -30,9 +32,8 @@ namespace BrainstormSessions.Controllers
                 IdeaCount = session.Ideas.Count
             });
 
-            Logger.InitLogger();
             if (Logger.useLogs)
-                Logger.Log.Info("Index page");
+                Logger.Log.Info(model);
 
 
             return View(model);
@@ -49,6 +50,8 @@ namespace BrainstormSessions.Controllers
         {
             if (!ModelState.IsValid)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Warn("BadRequest");
                 return BadRequest(ModelState);
             }
             else
@@ -58,6 +61,8 @@ namespace BrainstormSessions.Controllers
                     DateCreated = DateTimeOffset.Now,
                     Name = model.SessionName
                 });
+                if (Logger.useLogs)
+                    Logger.Log.Info($"session name = {model.SessionName}");
             }
 
             return RedirectToAction(actionName: nameof(Index));

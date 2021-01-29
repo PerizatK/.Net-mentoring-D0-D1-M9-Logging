@@ -1,0 +1,45 @@
+2021-01-29 14:00:50,886 [17] DEBUG LOGGER - Debug info
+2021-01-29 14:00:50,931 [17] ERROR LOGGER - BadRequest
+2021-01-29 14:00:50,956 [17] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:00:50,962 [17] ERROR LOGGER - BadRequest
+2021-01-29 14:00:50,967 [17] DEBUG LOGGER - Debug info
+2021-01-29 14:00:50,968 [17] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
+2021-01-29 14:02:11,871 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:02:11,900 [13] WARN  LOGGER - BadRequest
+2021-01-29 14:09:07,987 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:09:08,018 [13] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:09:11,911 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:09:11,940 [13] WARN  LOGGER - BadRequest
+2021-01-29 14:09:11,959 [13] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:09:11,969 [13] ERROR LOGGER - BadRequest
+2021-01-29 14:09:11,974 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:09:11,976 [13] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
+2021-01-29 14:09:29,791 [15] DEBUG LOGGER - Debug info
+2021-01-29 14:09:41,212 [15] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:09:56,102 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:09:56,133 [13] WARN  LOGGER - BadRequest
+2021-01-29 14:09:56,152 [13] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:09:56,161 [13] ERROR LOGGER - BadRequest
+2021-01-29 14:09:56,165 [13] DEBUG LOGGER - Debug info
+2021-01-29 14:09:56,167 [13] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
+2021-01-29 14:10:45,074 [17] DEBUG LOGGER - Debug info
+2021-01-29 14:10:45,104 [17] WARN  LOGGER - BadRequest
+2021-01-29 14:10:45,125 [17] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:10:45,135 [17] ERROR LOGGER - BadRequest
+2021-01-29 14:10:45,137 [17] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
+2021-01-29 14:11:08,022 [14] DEBUG LOGGER - Debug info
+2021-01-29 14:11:08,049 [14] WARN  LOGGER - BadRequest
+2021-01-29 14:11:08,068 [14] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:11:08,078 [14] ERROR LOGGER - BadRequest
+2021-01-29 14:11:08,080 [14] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}
+2021-01-29 14:11:23,314 [15] DEBUG LOGGER - Debug info
+2021-01-29 14:11:31,790 [15] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:12:22,190 [14] DEBUG LOGGER - Debug info
+2021-01-29 14:12:22,221 [14] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:12:42,480 [15] DEBUG LOGGER - Debug info
+2021-01-29 14:12:49,684 [15] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:13:08,807 [14] DEBUG LOGGER - Debug info
+2021-01-29 14:13:08,833 [14] WARN  LOGGER - BadRequest
+2021-01-29 14:13:08,854 [14] DEBUG LOGGER - session.DateCreated: 7/2/2016 12:00:00 AM +06:00 session.Name: Test One session.Id: 1
+2021-01-29 14:13:08,864 [14] ERROR LOGGER - BadRequest
+2021-01-29 14:13:08,867 [14] INFO  LOGGER - {BrainstormSessions.ViewModels.StormSessionViewModel, BrainstormSessions.ViewModels.StormSessionViewModel}

@@ -5,16 +5,23 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="App.config" />
+    <Content Remove="Properties\App.config" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="Properties\App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="log4net" Version="2.0.12" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.0.1" />
   </ItemGroup>
+  
+  <Target Name="CopyCustomContent" AfterTargets="AfterBuild">
+  <Copy SourceFiles="Properties\App.config" DestinationFiles="$(OutDir)\testhost.dll.config" />
+  <Copy SourceFiles="Properties\App.config" DestinationFiles="$(OutDir)\testhost.x86.dll.config" />
+</Target>
 
 </Project>

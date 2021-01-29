@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/zKyGkQWoIet9+oaZZiNrYwTDlqClCWNYE4ra/wGV0Kq2a8uVTGb7sEznLAu85sGwVuFGdnIktcrye3kqRwUCw==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net Mentoring D0-D1\\.Net-mentoring-D0-D1-M9-Logging\\Logging\\BrainstormSessions.Test\\BrainstormSessions.Test.csproj",
+  "dgSpecHash": "5ew3rzpGifRc0CksmwnVFBOUha51Y0gVDxJqbCupFE7I8NSN1l9tT9xasIxSqIRHDOI0oWSEVLkRMHbJ1RRMAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\Logging\\BrainstormSessions.Test\\BrainstormSessions.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
-    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",
+    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.1\\microsoft.entityframeworkcore.3.0.1.nupkg.sha512",
@@ -143,15 +143,5 @@
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: log4net from 2.0.12 to 2.0.11. Reference the package directly from the project to select a different version. \r\n BrainstormSessions.Test -> BrainstormSessions -> log4net (>= 2.0.12) \r\n BrainstormSessions.Test -> log4net (>= 2.0.11)",
-      "libraryId": "log4net",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.0"
-      ]
-    }
-  ]
+  "logs": []
 }

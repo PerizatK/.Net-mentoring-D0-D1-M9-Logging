@@ -11,6 +11,7 @@ namespace BrainstormSessions
     public static class Logger
     {
         public static bool useLogs;
+        public static bool inited = false;
         private static ILog log = LogManager.GetLogger("LOGGER");
 
         public static ILog Log
@@ -21,9 +22,10 @@ namespace BrainstormSessions
         public static void InitLogger()
         {
             XmlConfigurator.Configure();
-            useLogs = ConfigurationManager.AppSettings.Get("useLogs") == "useLogs" ? true : false;
+            useLogs = ConfigurationManager.AppSettings["useLogs"] == "useLogs";
             if (useLogs)
             log.Debug("Debug info");
+            inited = true;
         }
     }
 }

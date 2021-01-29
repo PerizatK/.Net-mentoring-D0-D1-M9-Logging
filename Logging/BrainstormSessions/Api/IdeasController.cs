@@ -25,6 +25,8 @@ namespace BrainstormSessions.Api
             var session = await _sessionRepository.GetByIdAsync(sessionId);
             if (session == null)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Error("Session not found");
                 return NotFound(sessionId);
             }
 
@@ -50,6 +52,8 @@ namespace BrainstormSessions.Api
             var session = await _sessionRepository.GetByIdAsync(model.SessionId);
             if (session == null)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Error("Session not found");
                 return NotFound(model.SessionId);
             }
 
@@ -60,6 +64,8 @@ namespace BrainstormSessions.Api
                 Name = model.Name
             };
             session.AddIdea(idea);
+
+            Logger.Log.Debug($"idea.DateCreated: {idea.DateCreated} idea.Name: {idea.Name} idea.Id: {idea.Id}");
 
             await _sessionRepository.UpdateAsync(session);
 
@@ -77,6 +83,8 @@ namespace BrainstormSessions.Api
 
             if (session == null)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Error("Session not found");
                 return NotFound(sessionId);
             }
 
@@ -101,6 +109,8 @@ namespace BrainstormSessions.Api
         {
             if (!ModelState.IsValid)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Error("BadRequest");
                 return BadRequest(ModelState);
             }
 
@@ -108,6 +118,8 @@ namespace BrainstormSessions.Api
 
             if (session == null)
             {
+                if (Logger.useLogs)
+                    Logger.Log.Error("Session not found");
                 return NotFound(model.SessionId);
             }
 
@@ -118,6 +130,9 @@ namespace BrainstormSessions.Api
                 Name = model.Name
             };
             session.AddIdea(idea);
+
+            if (Logger.useLogs)
+                Logger.Log.Debug($"idea.DateCreated: {idea.DateCreated} idea.Name: {idea.Name} idea.Id: {idea.Id}");
 
             await _sessionRepository.UpdateAsync(session);
 

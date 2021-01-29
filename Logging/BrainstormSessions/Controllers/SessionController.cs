@@ -16,6 +16,9 @@ namespace BrainstormSessions.Controllers
 
         public async Task<IActionResult> Index(int? id)
         {
+            if (Logger.inited == false)
+                Logger.InitLogger();
+
             if (!id.HasValue)
             {
                 if (Logger.useLogs)

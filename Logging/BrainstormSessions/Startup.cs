@@ -46,7 +46,6 @@ namespace BrainstormSessions
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-
         }
 
         public async Task InitializeDatabaseAsync(IBrainstormSessionRepository repo)
